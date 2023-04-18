@@ -21,7 +21,7 @@ body{
     box-shadow: 0px 0px 10px #ccc;
     border-radius: 30px;
     outline: none;
-    padding-left: 15%;
+    padding-left: 5%;
     background-color:#fff;
 
    
@@ -54,17 +54,24 @@ span{
    
 
 }
-/*
+
 i{
     position: absolute;
     left: 40px;
     top: 30%;
     opacity: 0.5;
+    display: none;
    
+}
+#searchLogo{
+    display: none;
+
 }
 img{
     position: absolute;
     right: 46px;
     top: 29%;
+    display: none;
+
 }
-*/
+
